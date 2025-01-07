@@ -9,6 +9,7 @@
   $([
     '<div class="fb3d-modal">',
       '<a href="#" class="cmd-close"><span class="fa fa-times"></span></a>',
+      '<a href="#" download="" target="_blank"  class="cmd-download clicked-toolkit d-none"><span  class="fa-solid fa-download"></span></span></a>',
       '<div class="mount-container">',
 
       '</div>',
